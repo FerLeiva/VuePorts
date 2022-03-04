@@ -17,7 +17,7 @@ Now you can successfully run the Vue.js application. To do so, open a new termin
 
 That runs the server and now you can access the app via 'http://localhost:8080/'
 
-In the App, you can find all the data in the database in a organized table. You can also filter the table with the input at the top, It will match the passed string against any existing port in the table. If there is no matchable port, it will display an error message instead.
+In the App, you can find all the data in the database in a paginated table, each page lists a total of 12 items. You can also filter the table with the input at the top, It will match the passed string against any existing port in the table. If there is no matchable port, it will display an error message instead.
 
 > In case you get the following error when running npm run serve:
 
@@ -48,7 +48,7 @@ Ahora puede ejecutar con éxito la aplicación Vue.js. Para hacerlo, abra una nu
 
 Eso ejecuta el servidor y ahora puede acceder a la aplicación a través de 'http://localhost:8080/'
 
-En la aplicación, puede encontrar todos los datos en la base de datos en una tabla organizada. También puede filtrar la tabla con la entrada en la parte superior. Hará coincidir la cadena pasada con cualquier puerto existente en la tabla. Si no hay un puerto coincidente, mostrará un mensaje de error en su lugar.
+En la aplicación, puede encontrar todos los datos en la base de datos en una tabla paginada, cada página enumera un total de 12 elementos. También puede filtrar la tabla con la entrada en la parte superior. Hará coincidir la cadena pasada con cualquier puerto existente en la tabla. Si no hay un puerto coincidente, mostrará un mensaje de error en su lugar.
 
 > En caso de que obtenga el siguiente error al ejecutar npm run serve:
 
