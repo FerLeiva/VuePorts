@@ -1,5 +1,5 @@
 # CargoFive-Ports (English)
-Single page Web API using JavaScript, Vue.js and Express.js
+Single Page Application using JavaScript, Vue.js and Express.js
 
 To run the application, you must first clone the repository in a Node.js console via:
     
@@ -30,7 +30,7 @@ Delete the node_modules folder and try running npm install and then npm audit fi
 
 
 # CargoFive-Ports (Español)
-API Web de una sola página con JavaScript, Vue.js y Express.js
+Aplicación Web de una sola página con JavaScript, Vue.js y Express.js
 
 Para ejecutar la aplicación, primero debe clonar el repositorio en una consola de Node.js a través de:
     
