@@ -57,3 +57,9 @@ En la aplicación, puede encontrar todos los datos en la base de datos en una ta
 Elimine la carpeta node_modules e intente ejecutar npm install y luego npm audit fix --force, todavía no sé por qué sucede esto a veces al clonar la aplicación, pero es la solución rápida que pude encontrar para resolverlo. Parece que algunas de las bibliotecas utilizadas por @vue/cli están obsoletas o en conflicto.
 
 > NOTA: La aplicación está lista para conectarse con una base de datos remota usando MongoDB, pero tuve algunos problemas para hacerlo, así que preferí usar Express.js y Axios para emularla.
+
+# SNIPPETS
+
+![image](https://user-images.githubusercontent.com/66581357/189171059-9a7fb2a6-7105-4c80-86fc-0f3342c1f6a4.png)
+
+![image](https://user-images.githubusercontent.com/66581357/189171205-38a9ebc6-6474-4de6-b9d5-495308b7877a.png)
