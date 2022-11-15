@@ -63,3 +63,5 @@ Elimine la carpeta node_modules e intente ejecutar npm install y luego npm audit
 ![image](https://user-images.githubusercontent.com/66581357/189171059-9a7fb2a6-7105-4c80-86fc-0f3342c1f6a4.png)
 
 ![image](https://user-images.githubusercontent.com/66581357/189171205-38a9ebc6-6474-4de6-b9d5-495308b7877a.png)
+
+fede
