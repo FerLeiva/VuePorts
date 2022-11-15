@@ -23,9 +23,7 @@ In the App, you can find all the data in the database in a paginated table, each
 
     ERROR in Conflict: Multiple assets emit different content to the same filename index.html
 
-Delete the node_modules folder and try running npm install and then npm audit fix --force, I still don't know why this happens sometimes when cloning the app, but it's the quick fix I could find to resolve it. It seems that some of the libraries used by @vue/cli are deprecated or conflicting.
-
-> NOTE: The app is ready to connect with a remote database using MongoDB, but i had some issues doing that so i prefered to just use Express.js and Axios to emulate it.
+Probando 
 
 
 
