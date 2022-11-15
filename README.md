@@ -54,7 +54,7 @@ En la aplicación, puede encontrar todos los datos en la base de datos en una ta
 
     ERROR in Conflict: Multiple assets emit different content to the same filename index.html
 
-Elimine la carpeta node_modules e intente ejecutar npm install y luego npm audit fix --force, todavía no sé por qué sucede esto a veces al clonar la aplicación, pero es la solución rápida que pude encontrar para resolverlo. Parece que algunas de las bibliotecas utilizadas por @vue/cli están obsoletas o en conflicto.
+Llama a la llama que llama de servicio tecnico. 
 
 > NOTA: La aplicación está lista para conectarse con una base de datos remota usando MongoDB, pero tuve algunos problemas para hacerlo, así que preferí usar Express.js y Axios para emularla.
 
