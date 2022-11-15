@@ -1,5 +1,3 @@
-# CargoFive-Ports (English)
-Single Page Application using JavaScript, Vue.js and Express.js
 
 To run the application, you must first clone the repository in a Node.js console via:
     
